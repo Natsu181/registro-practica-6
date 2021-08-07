@@ -1,0 +1,24 @@
+body {
+  background: linear-gradient(180deg, rgba(6,0,36,1) 0%, rgba(9,121,53,1) 26%, rgba(0,212,255,1) 100%);
+  height: 100vh;
+}
+
+#title-form{
+  text-align: center;
+  color: #000;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+#consulta{
+  color: #ffff;
+}
+
+#mensaje{
+  color: #ffff;
+  font-size: medium;
+}
+
+#entrada{
+  color: #0000;
+}
